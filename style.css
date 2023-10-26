@@ -1,0 +1,83 @@
+body {
+	background-color: rgb(174, 195, 174);
+	font-family: Lato, serif;
+	color: rgb(100, 100, 100);
+}
+
+h1 {
+	color: rgb(148, 166, 132);
+	font-family: Helvetica;
+}
+
+h2 {
+	color: rgb(148, 166, 132);
+	font-family: Helvetica;
+	font-size: 35px;
+	text-justify: center;
+	font-weight: 200;
+	}
+
+a:hover{
+	color:mediumpurple;
+}	
+
+div {
+	background: white;
+	border: 100px lightgrey;
+	margin: 10px;
+	border-top: 8px rgb(174, 195, 174);
+	padding: 30px;
+	border-radius: 4px;
+	box-shadow:0 10px 30px rgba(50, 50, 93, .1);
+	width: 400px;
+	margin: 40px auto;
+	padding: 0px 24px;
+	text-align: center;
+    @media max-width: 300px 
+	.container
+		background-color: black;
+	
+
+}
+
+
+}
+
+.img-circle {
+	border-radius: 50%;
+	
+}
+
+
+.container {
+	width: 700px;
+	margin: 40px auto;
+}
+
+.btn-pink{
+	background-color: lavender;
+	color: white;
+	padding: 10px 15px;
+	border-radius: 4px;
+
+}
+
+.list-inline{
+	list-style: none;
+	padding-left: Opx;
+}
+
+.list-inline li {
+	display:inlibe;
+	padding:10px;
+}
+
+.list inline i{
+	font-size: 30px
+	color: rgb(230, 230, 230);
+}
+
+
+
+
+ 
